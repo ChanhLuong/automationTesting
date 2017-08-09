@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1040" started-at="2017-08-09T06:16:27Z" finished-at="2017-08-09T06:16:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1040" started-at="2017-08-09T06:16:27Z" finished-at="2017-08-09T06:16:28Z">
+      <class name="com.eCommerce.testDataDriverScript">
+        <test-method status="PASS" signature="beforeMeothod(java.lang.reflect.Method)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="beforeMeothod" is-config="true" duration-ms="7" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.eCommerce.testDataDriverScript.testLog(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMeothod -->
+        <test-method status="PASS" signature="testLog(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="testLog" duration-ms="5" started-at="2017-08-09T18:16:27Z" data-provider="testData" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLog -->
+        <test-method status="PASS" signature="testLog(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="testLog" duration-ms="0" started-at="2017-08-09T18:16:27Z" data-provider="testData" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLog -->
+        <test-method status="PASS" signature="beforeMeothod(java.lang.reflect.Method)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="beforeMeothod" is-config="true" duration-ms="0" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.eCommerce.testDataDriverScript.testLog(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMeothod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLog status=SUCCESS method=testDataDriverScript.testLog(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLog status=SUCCESS method=testDataDriverScript.testLog(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testLog(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="testLog" duration-ms="3" started-at="2017-08-09T18:16:27Z" data-provider="testData" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLog -->
+        <test-method status="PASS" signature="beforeMeothod(java.lang.reflect.Method)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="beforeMeothod" is-config="true" duration-ms="0" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.eCommerce.testDataDriverScript.testLog(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMeothod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLog status=SUCCESS method=testDataDriverScript.testLog(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.eCommerce.testDataDriverScript@7fe8ea47]" name="endTest" is-config="true" duration-ms="366" started-at="2017-08-09T18:16:27Z" finished-at="2017-08-09T18:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.eCommerce.testDataDriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
